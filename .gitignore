@@ -131,3 +131,6 @@ dmypy.json
 /wandb
 /flickr8k
 /lightning_logs
+/wandb
+/artifacts
+/del-mc2
